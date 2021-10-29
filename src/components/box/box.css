@@ -1,0 +1,45 @@
+.content_box{
+    background-color: white;
+    border-radius: 15px;
+    max-width: 600px;
+    height: 150px;
+    margin: 0 auto;
+
+    color: black;
+    display: flex;
+    flex-direction: row;
+    padding: 15px;
+
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.2);
+    
+}
+
+.img_box{
+    width: 150px;
+    height: 150px;
+}
+
+.wrappe_box{
+    display: flex;
+    flex-direction: column;
+}
+
+.name_box{
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+
+.description_box{
+    margin-top: 10px;
+}
+
+.status_box{
+    background-color: cornflowerblue;
+    width: 100px;
+    padding: 5px;
+    text-align: center;
+    border-radius: 15px;
+
+    margin-left: 70%;
+    margin-top: 5%;
+}

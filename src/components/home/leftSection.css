@@ -1,0 +1,42 @@
+#left_section{
+    width: 25%;
+    height: 100vw;
+    background-color: white;
+    
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+
+    padding: 0px;
+    display: flex;
+    flex-direction: column;
+}
+
+.menu_logo{
+    margin: 0 auto;
+}
+
+.menu_inicio{
+    text-align: center;
+}
+
+
+.menu_group{
+    display: flex;
+}
+
+.menu_item{
+    display: flex;
+    align-items: center;
+}
+
+.menu_icons{
+    width: 15px;
+    height: 15px;
+
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.menu_title{
+    padding: 0px; 
+    text-align: start;  
+}

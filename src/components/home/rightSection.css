@@ -1,0 +1,14 @@
+#right_section{
+    width: 75%;
+    height: 100vw;
+   
+}
+
+#box_wrapper{
+  color: black;
+}
+
+.right_title{
+    font-size: bold;
+    text-align: center;
+}
