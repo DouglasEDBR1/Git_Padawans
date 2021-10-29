@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,22 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+<h1>Projeto Padawans Bootcamps</h1>
+<hr>
+<p>Projeto desenvolvido durante o bootcamp Padawans, para treinar Algoritmos e Estrutura de Dados.</p>
+
+<img src="https://cdn.discordapp.com/attachments/838555873684094996/903289124927193108/Webp.net-gifmaker.gif">
+
+<p>Contribuintes:</p>
+
+<a href="https://github.com/marcogarcia29/marcogarcia29">Marco Garcia</a>
+<br>
+<a href="https://github.com/MikeSantana">Mike Santana</a>
+<br>
+<a href="https://github.com/VictorBohana">Victor Bohana</a>
+<br>
+<a href="https://github.com/henriquera1">Henrique Garcia</a>
+<br>
+<a href="https://github.com/DouglasEDBR1">Douglas Magalhães</a>
+>>>>>>> 959ffb5ea38accc3273b931d27d047e173eba657
