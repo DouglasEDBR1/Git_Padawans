@@ -1,0 +1,106 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+#top_btn{
+    background-color: #f9fafe;
+    float: right;
+}
+#top{
+    background-color: #f9fafe;
+    height: 400px;
+    display: flex;
+    
+   
+}
+
+
+
+#top_wrapper{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+}
+
+
+
+#top_title h1{
+    font-size: 8rem;
+    margin-bottom: 30px;
+    color: #26b1cb;
+}
+
+
+
+#top_download{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    
+    
+}
+
+
+
+#top_download #span1{
+    font-size: 2rem;
+    margin: 0 auto;
+}
+
+#download_btn{
+ margin-top: 20px;
+}
+
+#btn_android{
+    margin-right: 10px;
+}
+
+#btn_iphone{
+    margin-left: 10px;
+}
+
+#middle{
+    background-color: #26b1cb;
+    height: 600px;
+    display: flex;
+  
+}
+
+#middle_img{
+    width: 50%;
+
+}
+
+
+#middle_wrapper{
+    max-width: 700px;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: 20px;
+}
+
+.middle_title{
+    font-size: 4rem;
+    margin-bottom: 5%;
+}
+.middle_subtitle{
+    font-size: 1.6rem;
+    margin-bottom: 5%;
+}
+.middle_palagraph{
+    font-size: 1.2rem; 
+    margin-bottom: 2%;
+}
+
+#middle_end{
+    background-color: #f9fafe;
+    height: 300px;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+    height: 300px;
+}
